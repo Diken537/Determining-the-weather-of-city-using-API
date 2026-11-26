@@ -43,7 +43,6 @@ Weather-CLI/
 │
 ├── weather.py       # Main application
 ├── README.md        # Project documentation
-└── .gitignore       # Files excluded from Git
 ```
 
 ## 🚀 Installation and Setup
